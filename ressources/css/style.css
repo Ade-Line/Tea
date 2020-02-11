@@ -345,9 +345,9 @@ cite img {
 /* CONTACT 
 ===============*/
 
-/* .adress input i{
+.contact-form input {
     width: 12rem;
-} */
+}
 
 .contact-form{
     margin-bottom: 30px;
